@@ -50,3 +50,8 @@ p, h1, h2, h3, h4, h5, h6 {
 #root, #__next {
   isolation: isolate;
 }
+
+a, a:visited, a:hover, a:active {
+  color: #0000EE;
+  text-decoration: none;
+}
